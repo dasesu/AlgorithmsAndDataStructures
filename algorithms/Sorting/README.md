@@ -14,8 +14,8 @@ g++ data_generator.cpp -o data_generator
 mv file.txt 01_selection_sort
 ```
 
-[01_selection_sort](01_selection_sort/selection_sort.cpp)
-02_bubble_sort
-03_insertion_sort
-04_merge_sort
-05_quick_sort
+[01_selection_sort](01_selection_sort/selection_sort.cpp)  
+02_bubble_sort  
+03_insertion_sort  
+04_merge_sort  
+05_quick_sort  
