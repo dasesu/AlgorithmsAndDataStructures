@@ -16,12 +16,12 @@ int main(int argc, char *argv[]){
    if (argc >= 2){
       n = std::stoi(argv[1]);
    }else{
-      n=1000000;
+      n=100000;
    }
    printf("generating %d numbers\n", n);
    
    while( i<n ){
-      val = rand() % n;    // generate number between 1 and n (1000000)
+      val = rand() % n;    // generate number between 1 and n
       fprintf(fp, "%d\n", val);  // printf("%d\n", val); //
       i++;
    }
