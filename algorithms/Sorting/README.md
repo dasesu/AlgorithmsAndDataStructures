@@ -15,7 +15,7 @@ mv file.txt 01_selection_sort
 ```
 
 [01_selection_sort](01_selection_sort/selection_sort.cpp)  
-02_bubble_sort  
-03_insertion_sort  
-04_merge_sort  
-05_quick_sort  
+[02_bubble_sort](02_bubble_sort/bubble_sort.cpp)  
+[03_insertion_sort](03_insertion_sort/insertion_sort.cpp)  
+[04_merge_sort](04_merge_sort/merge_sort.cpp)  
+[05_quick_sort](05_quick_sort/quick_sort.cpp)  
